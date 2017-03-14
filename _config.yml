@@ -1,0 +1,6 @@
+theme: jekyll-theme-cayman
+title: [Welcome to Analytics team]
+description: [From Data to Decision]
+
+#Others
+markdown: kramdown
